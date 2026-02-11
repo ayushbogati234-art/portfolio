@@ -41,7 +41,7 @@ const About = () => {
               <img
                 src={profile}
                 alt="Ayush Bogati"
-                className="w-64 h-64 rounded-xl object-cover shadow-lg"
+                className="w-64 h-64 rounded-2xl object-cover shadow-xl border-4 border-blue-200"
               />
             </div>
           </div>
