@@ -1,11 +1,11 @@
 import { Github, Linkedin, Mail, Code2, GraduationCap, Briefcase, User, ExternalLink } from 'lucide-react';
-import Hero from './components/Hero';
-import About from './components/About';
-import Skills from './components/Skills';
-import Projects from './components/Projects';
-import Education from './components/Education';
-import Contact from './components/Contact';
-import Navigation from './components/Navigation';
+import Hero from "./Hero";
+import About from "./About";
+import Contact from "./Contact";
+import Education from "./Education";
+import Navigation from "./Navigation";
+import Projects from "./Projects";
+import Skills from "./Skills";
 
 function App() {
   return (
