@@ -19,7 +19,7 @@ const Contact = () => {
 
             <div className="space-y-6">
               <a
-                href="mailto:ayush@example.com"
+                href="mailto:ayushbogati234@gmail.com"
                 className="flex items-start space-x-4 p-4 bg-gray-50 rounded-xl hover:bg-blue-50 transition-colors group"
               >
                 <div className="bg-blue-600 p-3 rounded-lg group-hover:bg-blue-700 transition-colors">
@@ -59,7 +59,7 @@ const Contact = () => {
               <h4 className="font-bold text-gray-900 mb-4">Connect with me</h4>
               <div className="flex space-x-4">
                 <a
-                  href="https://github.com/yourgithubusername"
+                  href="https://github.com/ayushbogati234-art"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gray-900 text-white p-4 rounded-lg hover:bg-gray-800 transition-all transform hover:scale-110"
@@ -67,7 +67,7 @@ const Contact = () => {
                   <Github size={24} />
                 </a>
                 <a
-                  href="https://linkedin.com/in/yourlinkedincustomurl"
+                  href="https://www.linkedin.com/in/ayush-bogati-aaaa78372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-blue-600 text-white p-4 rounded-lg hover:bg-blue-700 transition-all transform hover:scale-110"
@@ -75,7 +75,7 @@ const Contact = () => {
                   <Linkedin size={24} />
                 </a>
                 <a
-                  href="mailto:ayush@example.com"
+                  href="mailto:ayushbogati234@gmail.com"
                   className="bg-red-600 text-white p-4 rounded-lg hover:bg-red-700 transition-all transform hover:scale-110"
                 >
                   <Mail size={24} />
