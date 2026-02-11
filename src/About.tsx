@@ -31,7 +31,7 @@ const About = () => {
                   <Linkedin size={28} />
                 </a>
                 <a
-                  href="mailto:ayush@example.com"
+                  href="mailto:ayushbogati234@gmail.com"
                   className="bg-red-600 text-white p-4 rounded-lg hover:bg-red-700 transition-all transform hover:scale-110 shadow-lg"
                 >
                   <Mail size={28} />
@@ -41,7 +41,7 @@ const About = () => {
               <img
                 src="/s.jpeg"
                 alt="Ayush Bogati"
-                className="w-80 h-96 object-cover rounded-2xl shadow-xl border-4 border-blue-100"
+                className="w-64 h-64 rounded-xl object-cover shadow-lg"
               />
             </div>
           </div>
