@@ -36,7 +36,7 @@ const Hero = () => {
 
           <div className="flex justify-center space-x-4 mb-12">
             <a
-              href="https://github.com/yourgithubusername"
+              href="https://ayushbogati234-art"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-900 text-white px-6 py-3 rounded-lg hover:bg-gray-800 transition-all transform hover:scale-105 flex items-center space-x-2 shadow-lg"
@@ -45,7 +45,7 @@ const Hero = () => {
               <span>GitHub</span>
             </a>
             <a
-              href="https://linkedin.com/in/yourlinkedincustomurl"
+              href="https://www.linkedin.com/in/ayush-bogati-aaaa78372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-all transform hover:scale-105 flex items-center space-x-2 shadow-lg"
@@ -54,7 +54,7 @@ const Hero = () => {
               <span>LinkedIn</span>
             </a>
             <a
-              href="mailto:ayush@example.com"
+              href="mailto:ayushbogati234@gmail.com"
               className="bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-all transform hover:scale-105 flex items-center space-x-2 shadow-lg"
             >
               <Mail size={20} />
