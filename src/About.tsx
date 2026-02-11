@@ -1,4 +1,5 @@
 import { Heart, Lightbulb, Target, Github, Linkedin, Mail } from 'lucide-react';
+import profile from "./assets/s.jpeg";
 
 const About = () => {
   return (
