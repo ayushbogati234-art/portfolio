@@ -73,7 +73,7 @@ const Education = () => {
 
           <div className="mt-8 grid md:grid-cols-3 gap-6">
             <div className="bg-white p-6 rounded-xl shadow-lg text-center border-2 border-gray-100 hover:border-blue-200 transition-all">
-              <div className="text-4xl font-bold text-blue-600 mb-2">9.0+</div>
+              <div className="text-4xl font-bold text-blue-600 mb-2">idk</div>
               <p className="text-gray-600 font-medium">Current CGPA</p>
             </div>
 
