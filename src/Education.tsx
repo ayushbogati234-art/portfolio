@@ -78,7 +78,7 @@ const Education = () => {
             </div>
 
             <div className="bg-white p-6 rounded-xl shadow-lg text-center border-2 border-gray-100 hover:border-green-200 transition-all">
-              <div className="text-4xl font-bold text-green-600 mb-2">5+</div>
+              <div className="text-4xl font-bold text-green-600 mb-2">2+</div>
               <p className="text-gray-600 font-medium">Projects Completed</p>
             </div>
 
