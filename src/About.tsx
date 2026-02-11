@@ -39,7 +39,7 @@ const About = () => {
               </div>
 
               <img
-                src="/s.jpeg"
+                src={profile}
                 alt="Ayush Bogati"
                 className="w-64 h-64 rounded-xl object-cover shadow-lg"
               />
